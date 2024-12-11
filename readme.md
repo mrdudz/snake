@@ -1,7 +1,9 @@
 
 ## Snake
 
-by nmiaon in 2001
+written by nmiaon in 2001
+
+ported to cc65 by gpz
 
 ![screenshot](img/c128.png)
 ![screenshot](img/c64.png)
